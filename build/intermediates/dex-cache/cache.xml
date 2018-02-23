@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\Desktop\sound_detect\Simple_Jsonlisting_posting1-master\app\libs\urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="C:\Users\Heenali\Desktop\sound_detect\Simple_Jsonlisting_posting1-master\app\build\intermediates\pre-dexed\debug\urlimageviewhelper-1.0.4_59f544eee9fa0cfc55740a8e3bd273c054e833d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\Desktop\sound_detect\Simple_Jsonlisting_posting1-master\app\libs\library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="250dc6923a299fa47f46c7ea8d1f306e41be461f">
+        <dex dex="C:\Users\Heenali\Desktop\sound_detect\Simple_Jsonlisting_posting1-master\app\build\intermediates\pre-dexed\debug\library_355640c7b5ea9d8258217043ed6770a558af095a.jar" />
+    </item>
+
+</items>
